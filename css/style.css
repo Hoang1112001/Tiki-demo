@@ -1233,7 +1233,7 @@ a{
   font-weight: 700;
   font-size: 13px;
   margin-top: 12px;
-  line-height: 35px;
+  line-height: 25px;
 }
 .footer_info_support p{
   line-height: 15px;
@@ -1260,7 +1260,7 @@ a{
   font-weight: 700;
   font-size: 13px;
   margin-top: 12px;
-  line-height: 30px;
+  line-height: 25px;
 }
 
 .footer_info_aboutus a{
@@ -1301,14 +1301,14 @@ a{
   font-weight: 700;
   font-size: 13px;
   margin-top: 12px;
-  line-height: 30px;
+  line-height: 25px;
 }
 
 .footer_info_link a{
   color: black;
   text-decoration: none;
   font-size: 12px;
-  line-height: 25px;
+  line-height: 20px;
 }
 .footer_info_cost h4{
   font-weight: 700;
