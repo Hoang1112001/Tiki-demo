@@ -1195,6 +1195,7 @@ a{
   line-height: 24px;
 }
 .infinite_scroll_content_info_price p{
+  margin-top: 2px;
   margin-left: 5px;
   font-size: 13px;
   color: white;
