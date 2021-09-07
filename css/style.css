@@ -1241,6 +1241,7 @@ a{
   font-weight: 500;
   color: #c4011a;
   margin-bottom: 5px;
+  margin-top: -5px;
 }
 .footer_info_support span{
   font-size: 12px;
@@ -1267,7 +1268,8 @@ a{
   color: black;
   text-decoration: none;
   font-size: 12px;
-  line-height: 25px;
+  line-height: 30px;
+  margin-top: -4px;
 }    
 .footer_address{
   width: 100%;
